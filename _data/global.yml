@@ -1,9 +1,19 @@
 # Site Settings
+<<<<<<< HEAD
 title: 'Scotch Jekyll Bootstrap-test'
 description: 'An Open-Source Bootstrap 3 Jekyll Theme by Scotch'
+=======
+title: 'Brader Besign Blog'
+description: 'A New Web Design Blog for the Masses'
+>>>>>>> master
 url: 'http://scotch-io.github.io' # the base hostname & protocol for your site
-footer_text: 'This text is footer text. Footer text goes here.'
+footer_text: 'Brader Designs 2016'
 
 # Admin Settings
+<<<<<<< HEAD
 admin_name: 'Nicholas Cerminara'
 admin_email: 'nick@scotch.io'
+=======
+admin_name: 'Jason Brader'
+admin_email: 'jbrader11@hotmail.com'
+>>>>>>> master
